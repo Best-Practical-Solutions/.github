@@ -3,7 +3,7 @@
 Welcome to Best Practical Solutions organization on GitHub where we love all things open source.
 
 * :books: 25+ years in open source. [Read our story](https://bestpractical.com/)
-* :computer: 8,500+ IBMers active in open source. [How we do open source](https://bestpractical.com/)
+* :computer: 8,500+ Members active in open source. [How we do open source](https://bestpractical.com/)
 * :office: 20,000 commits per month. [Where we invest](https://bestpractical.com/)
 * 👁️ 🐝 Ⓜ️: Learn about our approach to [Open Technology](https://bestpractical.com/)
 
